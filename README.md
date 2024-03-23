@@ -2,6 +2,10 @@
 
 This 3D model features a charred spear with the tattered remains of the Palestinian flag still faintly glowing at the edges. It's a symbolic weapon designed to show solidarity with the Palestinian people.
 
+### Consider Donating to UNRWA
+
+The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) provides essential services to millions of Palestinian refugees. Please consider making a donation to support their vital work here: https://donate.unrwa.org/-landing-page/
+
 ### Features
 
 - **High-Resolution Textures**: Available in 4k, 2k, and 1k.
@@ -16,13 +20,11 @@ This 3D model features a charred spear with the tattered remains of the Palestin
 
 ## Description & Showcase
 
-The spear is designed with a historical narrative, having been wielded in ancient times to combat an ifrit. Its embering edges and battle-worn flag tell a story of resilience and strength.
+This weapon symbolizes resistance. The charred state represents past struggles, while the embers signify an enduring spirit. The tattered flag, still alight, embodies unwavering resilience. I like to use a fantasy flair so the concept for the design was 'A weapon used to battle an ifrit.' All the elements of the design come from this in one way or another.
 
 ## Getting Started
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+These instructions will get the .uassets migrated into your project.
 
 ### Prerequisites
 
@@ -33,44 +35,22 @@ There are no requirements for the model, but for the unreal project you will nee
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development
-environment running
+This guide assumes you have Unreal Engine (version 5.3 or later) installed.
 
-Say what the step will be
+1. Open the Source Project: Open the PalestineSpear project that contains the model.
+2. Locate the Asset: In the Content Browser within the source project, navigate to **Content** > **PalestineScorchedSpear** > **Meshes** to find the `ScorchedRumh_SK` asset.
+3. Prepare for Migration: Right-click on the `ScorchedRumh_SK` asset and select ‘Asset Actions’ > ‘Migrate’. This will open a dialogue box showing all the assets that will be migrated along with `ScorchedRumh_SK`. Confirm that all necessary assets are included.
+4. Select Destination: After confirming the assets to migrate, you’ll be prompted to choose the destination folder. Navigate to the ‘Content’ folder of the project you want to import the model into.
+5. Complete the Migration: Select the destination ‘Content’ folder and proceed with the migration. Unreal Engine will copy all the selected assets to the destination project.
+6. Verify the Migration: Open the destination project and verify that `ScorchedRumh_SK` and the associated assets have been successfully migrated and are functioning as expected.
 
-    Give the example
+Remember to save any changes in both the source and destination projects to ensure the migration is properly recorded. If you encounter any issues, check the Unreal Engine documentation or community forums for troubleshooting tips.
 
-And repeat
-
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
-## Deployment
-
-Add additional notes to deploy this on a live system
 
 ## Built With
   - [Creative Commons](https://creativecommons.org/) - Used to choose
     the license
-
+    
 
 ## Versioning
 
