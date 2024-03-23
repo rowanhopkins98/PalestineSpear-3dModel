@@ -38,6 +38,7 @@ the action you have taken to solve it.
 ### Is it of good quality
 
   - There are no spelling mistakes
+  - There are no obvious issues
   - It reads well
   - For english language contributions: Has a good score on
     [Grammarly](https://www.grammarly.com) or [Hemingway
