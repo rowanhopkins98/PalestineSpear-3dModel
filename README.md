@@ -14,7 +14,7 @@ This 3D model features a charred spear with the tattered remains of the Palestin
 - **Cloth Simulation**: Dynamic movement for the flag.
 - **Physics Simulation**: Key and Hamsa amulet dynamically move with the spear.
 
-## Model Description
+## Description & Showcase
 
 The spear is designed with a historical narrative, having been wielded in ancient times to combat an ifrit. Its embering edges and battle-worn flag tell a story of resilience and strength.
 
@@ -87,7 +87,8 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
-  - **Rowan Hopkins** - *Created model and associated assets*
+  - **Rowan Hopkins** - *Created model and associated assets* -
+    [RowanHopkins98 - Unreal marketplace](https://www.unrealengine.com/marketplace/en-US/profile/rowanhopkins98?count=20&sortBy=effectiveDate&sortDir=DESC&start=0)
   - **Billie Thompson** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
   - **Blue, my cat.** - *oversaw and supervised all work while providing substantial moral and emotional support*
