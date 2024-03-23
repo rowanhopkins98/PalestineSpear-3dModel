@@ -19,7 +19,7 @@ The United Nations Relief and Works Agency for Palestine Refugees in the Near Ea
 - **Cloth Simulation**: Dynamic movement for the flag.
 - **Physics Simulation**: Key and Hamsa amulet dynamically move with the spear.
 
-## Description & Showcase
+## Description
 
 This weapon symbolizes resistance. The charred state represents past struggles, while the embers signify an enduring spirit. The tattered flag, still alight, embodies unwavering resilience. I like to use a fantasy flair so the concept for the design was 'A weapon used to battle an ifrit.' All the elements of the design come from this in one way or another.
 
