@@ -60,7 +60,7 @@ Remember to save any changes in both the source and destination projects to ensu
 
 We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
 available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+repository](https://github.com/rowanhopkins98/PalestineSpear-3dModel/tags).
 
 ## Authors
 
@@ -79,6 +79,5 @@ details
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+  - This project is dedicated to the resilient people of Palestine, especially those in Gaza and the West Bank. Their strength and perseverance in the face of adversity have been a profound source of inspiration. We stand in solidarity with their pursuit of peace and justice.
+  - To the individuals in Israel who seek peace and an end to colonial expansion, working towards a future of equality and harmony.
