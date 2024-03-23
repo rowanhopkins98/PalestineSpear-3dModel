@@ -8,10 +8,11 @@ The United Nations Relief and Works Agency for Palestine Refugees in the Near Ea
 
 ### Features
 
-- **High-Resolution Textures**: Available in 4k, 2k, and 1k.
+- **High-Resolution PBR Textures**: Available in 4k, 2k, and 1k.
 - **Emissive Textures**: Two intensity levels for dynamic visual effects.
 - **Materials**: Clean and blood-stained versions for diverse scenarios.
-- **Baked Mesh Maps**: Detailed and optimized for performance.
+- **Triangle and Vertex Counts**: 3406 Tris / 2450 Verts, optimized for performance without compromising detail. 
+- **Baked Mesh Maps**: For making your own changes to the textures.
 - **Unreal Engine 5 Project**: Fully set up for easy migration to your projects.
 - **Parameterized Material Instances**: Allows for extensive customization.
 - **Configured Physics Asset**: Realistic interactions within the environment.
@@ -48,6 +49,9 @@ Remember to save any changes in both the source and destination projects to ensu
 
 
 ## Built With
+  - [Blender](https://www.blender.org/) - Used for modelling and rigging.
+  - **Substance Painter** - Used for Texturing.
+  - [Unreal Engine](https://www.unrealengine.com/) - Utilized for asset integration, physics simulations, and rendering.
   - [Creative Commons](https://creativecommons.org/) - Used to choose
     the license
     
