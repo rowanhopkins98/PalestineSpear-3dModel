@@ -93,9 +93,6 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
     [PurpleBooth](https://github.com/PurpleBooth)
   - **Blue, my cat.** - *Oversaw and supervised all work while providing substantial moral and emotional support.*
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
 
 ## License
 
