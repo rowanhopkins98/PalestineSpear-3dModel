@@ -1,6 +1,22 @@
 # Palestine's Scorched Spear - 3D model.
 
-This package includes a high-quality 3D model of a charred and embering spear adorned with a tattered Palestinian flag, Unreal project files with materials, material instances (parameterized), physics, and cloth pre-configured for easy migration to your own projects.
+This 3D model features a charred spear with the tattered remains of the Palestinian flag still faintly glowing at the edges. It's a symbolic weapon designed to show solidarity with the Palestinian people.
+
+### Features
+
+- **High-Resolution Textures**: Available in 4k, 2k, and 1k.
+- **Emissive Textures**: Two intensity levels for dynamic visual effects.
+- **Materials**: Clean and blood-stained versions for diverse scenarios.
+- **Baked Mesh Maps**: Detailed and optimized for performance.
+- **Unreal Engine 5 Project**: Fully set up for easy migration to your projects.
+- **Parameterized Material Instances**: Allows for extensive customization.
+- **Configured Physics Asset**: Realistic interactions within the environment.
+- **Cloth Simulation**: Dynamic movement for the flag.
+- **Physics Simulation**: Key and Hamsa amulet dynamically move with the spear.
+
+## Model Description
+
+The spear is designed with a historical narrative, having been wielded in ancient times to combat an ifrit. Its embering edges and battle-worn flag tell a story of resilience and strength.
 
 ## Getting Started
 
