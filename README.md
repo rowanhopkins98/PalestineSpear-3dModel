@@ -1,4 +1,4 @@
-# Palestine's Scorched Spear - 3D model.
+# Palestine's Scorched Spear.
 
 This 3D model features a charred spear with the tattered remains of the Palestinian flag still faintly glowing at the edges. It's a symbolic weapon designed to show solidarity with the Palestinian people.
 
@@ -79,5 +79,5 @@ details
 
 ## Acknowledgments
 
-  - This project is dedicated to the resilient people of Palestine, especially those in Gaza and the West Bank. Their strength and perseverance in the face of adversity have been a profound source of inspiration. We stand in solidarity with their pursuit of peace and justice.
+  - This project is dedicated to the resilient people of Palestine, especially those in Gaza and the West Bank. Their strength and perseverance in the face of adversity and oppression have been a profound source of inspiration. We stand in solidarity with their pursuit of peace and justice.
   - To the individuals in Israel who seek peace and an end to colonial expansion, working towards a future of equality and harmony.
