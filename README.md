@@ -1,9 +1,6 @@
 # Palestine's Scorched Spear - 3D model.
 
-One Paragraph of the project description
-
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+This package includes a high-quality 3D model of a charred and embering spear adorned with a tattered Palestinian flag, Unreal project files with materials, material instances (parameterized), physics, and cloth pre-configured for easy migration to your own projects.
 
 ## Getting Started
 
@@ -74,8 +71,10 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
+  - **Rowan Hopkins** - *Created model and associated assets*
   - **Billie Thompson** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
+  - **Blue, my cat.** - *oversaw and supervised all work while providing substantial moral and emotional support*
 
 See also the list of
 [contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
