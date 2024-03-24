@@ -20,6 +20,7 @@ The United Nations Relief and Works Agency for Palestine Refugees in the Near Ea
 - **Physics Simulation**: Key and Hamsa amulet dynamically move with the spear.
 
 ## Description
+Sketchfab - [Game ready](https://sketchfab.com/3d-models/palestines-scorched-spear-game-ready-038aa335c9ef406baa1016e1da5f525d) | [Showcase](https://sketchfab.com/3d-models/palestines-scorched-spear-showcase-43e45d5a328a40a984497def99a1d59c)
 
 This weapon symbolizes resistance. The charred state represents past struggles, while the embers signify an enduring spirit. The tattered flag, still alight, embodies unwavering resilience. I like to use a fantasy flair so the concept for the design was 'A weapon used to battle an ifrit.' All the elements of the design come from this in one way or another.
 
