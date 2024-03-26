@@ -1,4 +1,5 @@
 # Palestine's Scorched Spear.
+![Bloody Flag](https://github.com/rowanhopkins98/PalestineSpear-3dModel/blob/main/Images/BloodyFlagWave.png?raw=true)
 
 This 3D model features a charred spear with the tattered remains of the Palestinian flag still faintly glowing at the edges. It's a symbolic weapon designed to show solidarity with the Palestinian people.
 
@@ -19,10 +20,28 @@ The United Nations Relief and Works Agency for Palestine Refugees in the Near Ea
 - **Cloth Simulation**: Dynamic movement for the flag.
 - **Physics Simulation**: Key and Hamsa amulet dynamically move with the spear.
 
+https://github.com/rowanhopkins98/PalestineSpear-3dModel/assets/26033060/da17b2ff-76f7-4f4b-a8c2-ba132e9dba55
+
+https://github.com/rowanhopkins98/PalestineSpear-3dModel/assets/26033060/cbcfe426-9839-48b6-bc9c-f27ea321151c
+
 ## Description
 Sketchfab - [Game ready](https://sketchfab.com/3d-models/palestines-scorched-spear-game-ready-038aa335c9ef406baa1016e1da5f525d) | [Showcase](https://sketchfab.com/3d-models/palestines-scorched-spear-showcase-43e45d5a328a40a984497def99a1d59c)
 
+![Whole View](https://github.com/rowanhopkins98/PalestineSpear-3dModel/blob/main/Images/Clean%20Flag%20Wave%20VertFocused.png?raw=true)
+
 This weapon symbolizes resistance. The charred state represents past struggles, while the embers signify an enduring spirit. The tattered flag, still alight, embodies unwavering resilience. I like to use a fantasy flair so the concept for the design was 'A weapon used to battle an ifrit.' All the elements of the design come from this in one way or another.
+
+### Scorched tip.
+![Scorched tip](https://github.com/rowanhopkins98/PalestineSpear-3dModel/blob/main/Images/TipClean.png?raw=true)
+The metal and wood being scorched and charred was a pretty obvious design choice to me with the concept of battling an ifrit. At first I was going to leave it as just charcoal but after playing around with an emissive texture in the cracks of the charcoal I decided to keep it and from there added it where the metal meets the shaft to emulate burning. 
+
+### Limiter ring & Dua.
+![Limiter ring & Dua](https://github.com/rowanhopkins98/PalestineSpear-3dModel/blob/main/Images/CleanDua.png?raw=true)
+The ring is inspired by wings on boar spears. The use of these was to stop the boar from running up the spear and this ring would serve the same function. It has a dua inscribed on it for protection. 
+
+### Hamsa amulet & Key of return.
+![Hama amulet & key of return](https://github.com/rowanhopkins98/PalestineSpear-3dModel/blob/main/Images/Charms.png?raw=true)
+I knew from the start I wanted to have a key hanging off it somewhere, then in my research I came across [this thread.](http://www.vikingsword.com/vb/showthread.php?p=235114) One of the posters said “E A Wallis Budge in his book “Amulets and Superstitions” 1930, makes mention of the amulet being attached to weapons (including spears) to confer power and strength to both the weapon and user.” So I decided to add that too. 
 
 ## Getting Started
 
